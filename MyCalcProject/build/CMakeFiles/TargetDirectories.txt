@@ -1,0 +1,17 @@
+D:/C_C++/MyCalcProject/MyCalcProject/build/CMakeFiles/edit_cache.dir
+D:/C_C++/MyCalcProject/MyCalcProject/build/CMakeFiles/rebuild_cache.dir
+D:/C_C++/MyCalcProject/MyCalcProject/build/Core/CMakeFiles/MyCalcProject.dir
+D:/C_C++/MyCalcProject/MyCalcProject/build/Core/CMakeFiles/edit_cache.dir
+D:/C_C++/MyCalcProject/MyCalcProject/build/Core/CMakeFiles/rebuild_cache.dir
+D:/C_C++/MyCalcProject/MyCalcProject/build/modules/Add/CMakeFiles/add.dir
+D:/C_C++/MyCalcProject/MyCalcProject/build/modules/Add/CMakeFiles/edit_cache.dir
+D:/C_C++/MyCalcProject/MyCalcProject/build/modules/Add/CMakeFiles/rebuild_cache.dir
+D:/C_C++/MyCalcProject/MyCalcProject/build/modules/Sub/CMakeFiles/sub.dir
+D:/C_C++/MyCalcProject/MyCalcProject/build/modules/Sub/CMakeFiles/edit_cache.dir
+D:/C_C++/MyCalcProject/MyCalcProject/build/modules/Sub/CMakeFiles/rebuild_cache.dir
+D:/C_C++/MyCalcProject/MyCalcProject/build/modules/Mul/CMakeFiles/mul.dir
+D:/C_C++/MyCalcProject/MyCalcProject/build/modules/Mul/CMakeFiles/edit_cache.dir
+D:/C_C++/MyCalcProject/MyCalcProject/build/modules/Mul/CMakeFiles/rebuild_cache.dir
+D:/C_C++/MyCalcProject/MyCalcProject/build/modules/Div/CMakeFiles/div.dir
+D:/C_C++/MyCalcProject/MyCalcProject/build/modules/Div/CMakeFiles/edit_cache.dir
+D:/C_C++/MyCalcProject/MyCalcProject/build/modules/Div/CMakeFiles/rebuild_cache.dir
