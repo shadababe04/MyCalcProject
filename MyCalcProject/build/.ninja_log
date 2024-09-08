@@ -1,0 +1,20 @@
+# ninja log v6
+10	176	7474766586681358	modules/Add/CMakeFiles/add.dir/src/add.cpp.obj	675b2429200d2f2
+15	157	7474766586838109	modules/Sub/CMakeFiles/sub.dir/src/sub.cpp.obj	8754d2d398d9e28b
+23	186	7474766586838109	modules/Div/CMakeFiles/div.dir/src/div.cpp.obj	3d99507be8276c99
+19	168	7474766586838109	modules/Mul/CMakeFiles/mul.dir/src/mul.cpp.obj	3081dbc41fee1050
+158	373	7474766588243897	modules/Sub/libsub.a	c88bb5900420daa
+176	362	7474766588400175	modules/Add/libadd.a	b5864ffb64346531
+186	363	7474766588400175	modules/Div/libdiv.a	a8d7d398d5ec1227
+168	373	7474766588243897	modules/Mul/libmul.a	dc057868ebd4a1e2
+15	28	7474770171717162	clean	766cbc4f7aab79de
+19	159	7474770240169477	modules/Sub/CMakeFiles/sub.dir/src/sub.cpp.obj	8754d2d398d9e28b
+24	171	7474770240169477	modules/Mul/CMakeFiles/mul.dir/src/mul.cpp.obj	3081dbc41fee1050
+14	181	7474770240013227	modules/Add/CMakeFiles/add.dir/src/add.cpp.obj	675b2429200d2f2
+29	191	7474770240169477	modules/Div/CMakeFiles/div.dir/src/div.cpp.obj	3d99507be8276c99
+160	394	7474770241621807	modules/Sub/libsub.a	c88bb5900420daa
+171	399	7474770241621807	modules/Mul/libmul.a	dc057868ebd4a1e2
+181	417	7474770241778038	modules/Add/libadd.a	b5864ffb64346531
+191	420	7474770241778038	modules/Div/libdiv.a	a8d7d398d5ec1227
+34	605	7474770240325737	Core/CMakeFiles/MyCalcProject.dir/src/main.cpp.obj	51abb4d14e060343
+606	777	7474770245995093	Core/MyCalcProject.exe	ababc740b0801d69
